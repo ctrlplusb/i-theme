@@ -1,6 +1,6 @@
 {
     "name": "i-minimal-theme",
-    "displayName": "i Minimal Theme",
+    "displayName": "i - A Minimal Theme",
     "description": "Minimalist monochrome theme supporting italics",
     "keywords": [
         "light",
@@ -9,7 +9,7 @@
         "minimal",
         "monochrome"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "ctrlplusb",
     "author": {
         "name": "Sean Matheson"

@@ -1,19 +1,14 @@
 <p align="center"><img src="https://i.imgur.com/nhBkQ4w.png" alt="i"></p>
 
-Minimalist monochrome theme for [Visual Studio Code](https://code.visualstudio.com) with support for italic fonts (e.g. Dank Mono or Operator Mono).
+Minimalist monochrome theme for [Visual Studio Code](https://code.visualstudio.com) with support for italic fonts (e.g. [Dank Mono](https://dank.sh/) or [Operator Mono](https://www.typography.com/fonts/operator/styles/)).
 
-### Less UI, more code
+### Zone in
 
-Focus on the beauty of your code by fading all visual distractions around.
+Focus on your code by avoiding unnecessary visual distractions.
 
-### Meaningful syntax
+### Embrace the syntax
 
-All programming languages already have punctuation and style: we type characters, not rainbows.
-
-### Light & Night
-
-After sunset, the Night version saves you from eye strain and improves the quality of your sleep.
-The [NightSwitch](https://marketplace.visualstudio.com/items?itemName=gharveymn.nightswitch) ([Lite](https://marketplace.visualstudio.com/items?itemName=gharveymn.nightswitch-lite)) extension can do the switch for you, every day on time.
+Programming languages already have punctuation and style: type characters, not rainbows.
 
 ## Screenshots
 
