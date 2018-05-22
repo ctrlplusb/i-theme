@@ -1,0 +1,52 @@
+{
+    "name": "i-theme",
+    "displayName": "i Theme",
+    "description": "Minimalist monochrome theme supporting italics",
+    "keywords": [
+        "light",
+        "night",
+        "theme",
+        "minimal",
+        "monochrome"
+    ],
+    "version": "1.0.0",
+    "publisher": "ctrlplusb",
+    "author": {
+        "name": "Sean Matheson"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#000",
+        "theme": "dark"
+    },
+    "bugs": {
+        "url": "https://github.com/ctrlplusb/i-theme/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ctrlplusb/i-theme"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "i Light",
+                "uiTheme": "vs",
+                "path": "./themes/i-light-color-theme.json"
+            },
+            {
+                "label": "i Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/i-night-color-theme.json"
+            }
+        ]
+    },
+    "scripts": {
+        "build": "./build.py"
+    }
+}
