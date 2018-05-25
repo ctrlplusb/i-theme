@@ -37,7 +37,7 @@
         "editorGutter.deletedBackground": "#ff0032",
         "editorGutter.modifiedBackground": "#000",
         "editorIndentGuide.background": "#f4f6fc",
-        "editorLineNumber.foreground": "#ebf0f5",
+        "editorLineNumber.foreground": "#a9a9a9ff",
         "editorLink.activeForeground": "#004bff",
         "editorOverviewRuler.addedForeground": "#0000",
         "editorOverviewRuler.border": "#0000",
@@ -145,7 +145,7 @@
                 "string.quoted.docstring"
             ],
             "settings": {
-                "foreground": "#bec9d3"
+                "foreground": "#a9a9a9ff"
             }
         },
         {
