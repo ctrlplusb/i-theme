@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/nhBkQ4w.png" alt="i"></p>
 
-Minimalist monochrome theme for [Visual Studio Code](https://code.visualstudio.com) with support for italic fonts (e.g. [Dank Mono](https://dank.sh/) or [Operator Mono](https://www.typography.com/fonts/operator/styles/)).
+Minimalist theme for [Visual Studio Code](https://code.visualstudio.com) with support for italic fonts (e.g. [Dank Mono](https://dank.sh/) or [Operator Mono](https://www.typography.com/fonts/operator/styles/)).
 
 ### Zone in
 
@@ -15,6 +15,10 @@ Programming languages already have punctuation and style: type characters, not r
 ### i Light
 
 <p align="center"><img src="https://i.imgur.com/DIfOY3j.png" alt="i Light screenshot"></p>
+
+### i Solarised
+
+<p align="center"><img src="https://i.imgur.com/eSvcHcB.png" alt="i Solarised screenshot"></p>
 
 ### i Night
 
