@@ -1,15 +1,16 @@
 {
     "name": "i-minimal-theme",
     "displayName": "i - A Minimal Theme",
-    "description": "Minimalist monochrome theme supporting italics",
+    "description": "A minimal theme supporting italics",
     "keywords": [
         "light",
         "night",
+        "solarised",
         "theme",
         "minimal",
         "monochrome"
     ],
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "ctrlplusb",
     "author": {
         "name": "Sean Matheson"
@@ -40,13 +41,15 @@
                 "path": "./themes/i-light-color-theme.json"
             },
             {
+                "label": "i Solarised",
+                "uiTheme": "vs",
+                "path": "./themes/i-solarised-color-theme.json"
+            },
+            {
                 "label": "i Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/i-night-color-theme.json"
             }
         ]
-    },
-    "scripts": {
-        "build": "./build.py"
     }
 }
