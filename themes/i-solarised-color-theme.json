@@ -37,7 +37,7 @@
         "editorGutter.deletedBackground": "#ff0032",
         "editorGutter.modifiedBackground": "#000",
         "editorIndentGuide.background": "#f4f6fc",
-        "editorLineNumber.foreground": "#a9a9a9ff",
+        "editorLineNumber.foreground": "#dcdcdcff",
         "editorLink.activeForeground": "#004bff",
         "editorOverviewRuler.addedForeground": "#0000",
         "editorOverviewRuler.border": "#0000",
@@ -76,8 +76,8 @@
         "list.hoverBackground": "#f4f6fc",
         "list.inactiveSelectionBackground": "#f4f6fc",
         "list.inactiveSelectionForeground": "#000",
-        "panel.background": "#f4f6fc",
-        "panel.border": "#0000",
+        "panel.background": "#FDF6E3",
+        "panel.border": "#dcdcdcff",
         "panelTitle.activeBorder": "#bec9d3",
         "peekView.border": "#000",
         "peekViewEditor.background": "#0000",
@@ -145,7 +145,7 @@
                 "string.quoted.docstring"
             ],
             "settings": {
-                "foreground": "#a9a9a9ff"
+                "foreground": "#dcdcdcff"
             }
         },
         {
